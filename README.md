@@ -2,9 +2,15 @@
 #### By Simon Stern
 
 
-### This project is for the workshop on December 2nd. 
+### This project is for the [React Native Creative Workshop on December 2nd](https://www.meetup.com/React-Native-Creative-Active/events/265858749/). 
 
-## Please clone the repo and ensure you can see a simulator on your screen like the screenshot below. We will be starting from this position. 
+## Please follow the steps below to get a repo that should look exactly like this one. You should also be able to clone this repo and run it locally
+
+![Image](https://imgur.com/gallery/gu4fUz4)
+
+### This workshop is for developers with *some* React experience. The focus will be on bridging that knowledge to React Native
+
+---- 
 
 **Download Expo from here **
 **If you are on a mac: You will need xCode toolchain **
