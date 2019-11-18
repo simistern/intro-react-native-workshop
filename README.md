@@ -4,7 +4,7 @@
 
 ### This project is for the [React Native Creative Workshop on December 2nd](https://www.meetup.com/React-Native-Creative-Active/events/265858749/). 
 
-## Please follow the steps below to get a repo that should look exactly like this one. You should also be able to clone this repo and run it locally
+## Please follow the steps below to get a repo that should look exactly like this one. You should also be able to clone this repo and run it locally, and see the following screen  with your phone or simulator showing
 
 ![Image](https://i.imgur.com/8YCjwmp.png)
 
@@ -12,6 +12,17 @@
 
 ---- 
 
-**Download Expo from here **
-**If you are on a mac: You will need xCode toolchain **
-**If you are using Android, make sure to have a phone or simulator that can display this example**
+1) **[Install Expo from here](https://docs.expo.io/versions/v35.0.0/get-started/installation/)**
+2) Create a new expo app with `expot init my-new-project`
+
+#### **Following the Expo instructions will let your preview your app on either a simulator or physical device:** 
+
+### Simulators
+- For iOS: [Download Xcode and Xcode CLI](https://docs.expo.io/versions/latest/workflow/ios-simulator)
+   - Install Xcode and Xcode Command Line Tools
+- For Android: [Android Studio](https://docs.expo.io/versions/v35.0.0/workflow/android-studio-emulator/)
+  - Setup Android Studio and a virtual device
+
+### Physical Device
+- Download expo app
+  
