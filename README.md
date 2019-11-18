@@ -6,7 +6,7 @@
 
 ## Please follow the steps below to get a repo that should look exactly like this one. You should also be able to clone this repo and run it locally
 
-![Image](https://imgur.com/gallery/gu4fUz4)
+![Image](https://i.imgur.com/8YCjwmp.png)
 
 ### This workshop is for developers with *some* React experience. The focus will be on bridging that knowledge to React Native
 
