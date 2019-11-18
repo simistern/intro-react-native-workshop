@@ -25,4 +25,6 @@
 
 ### Physical Device
 - Download expo app
+  - [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_CA)
+  - [iOS](https://apps.apple.com/app/apple-store/id982107779)
   
