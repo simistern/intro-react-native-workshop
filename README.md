@@ -18,7 +18,7 @@
 ---- 
 
 1) **[Install Expo from here](https://docs.expo.io/versions/v35.0.0/get-started/installation/)**
-2) Create a new expo app with `expot init my-new-project`
+2) Create a new expo app with `expo init my-new-project`
 
 #### **Following the Expo instructions will let your preview your app on either a simulator or physical device:** 
 
